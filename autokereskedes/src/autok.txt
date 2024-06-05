@@ -1,0 +1,10 @@
+Toyota;Corolla;Benzin;Első kerék;5000000
+Volkswagen;Golf;Dízel;Első kerék;6000000
+BMW;X5;Benzin;Összkerék;15000000
+Audi;A4;Benzin;Első kerék;8000000
+Mercedes;C-Class;Dízel;Hátsó kerék;9000000
+Ford;Focus;Benzin;Első kerék;5500000
+Honda;Civic;Benzin;Első kerék;5800000
+Kia;Sportage;Dízel;Összkerék;7000000
+Nissan;Qashqai;Benzin;Első kerék;6500000
+Hyundai;Tucson;Dízel;Összkerék;7200000
